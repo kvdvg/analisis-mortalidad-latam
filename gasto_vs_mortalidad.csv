@@ -1,0 +1,13 @@
+pais,promedio_gasto_pib,promedio_mortalidad_cv,promedio_medicos,promedio_gasto_bolsillo,categoria_inversion
+Brasil,10.3,193.0,24.3,26.2,Alto inversor
+Argentina,10.0,222.3,41.3,21.1,Alto inversor
+Chile,9.7,129.2,29.0,31.1,Alto inversor
+Uruguay,9.4,160.6,51.8,15.4,Alto inversor
+Ecuador,9.0,151.4,22.4,41.8,Alto inversor
+Panama,8.6,133.8,17.0,18.4,Inversor medio
+Colombia,8.0,144.2,23.1,15.0,Inversor medio
+Paraguay,7.9,191.4,15.6,33.4,Inversor medio
+Bolivia,7.5,202.7,10.8,27.4,Inversor medio
+Mexico,6.0,166.8,24.9,40.0,Bajo inversor
+Peru,5.7,136.0,14.1,36.5,Bajo inversor
+Venezuela,3.4,211.2,15.9,62.5,Bajo inversor
